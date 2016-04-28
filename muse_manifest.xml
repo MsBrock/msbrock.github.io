@@ -1,0 +1,23 @@
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="index.com" resolutions="1x" timestamp="1461885546651">
+  <folder name="css">
+    <file name="site_global.css" crc="4060860913"/>
+    <file name="index.css" crc="4251204375" ref="index"/>
+    <file name="filled-css-sans.css" crc="461024444" ref="filled-css-sans"/>
+  </folder>
+  <folder name="assets">
+    <file name="filled-css-sans.css" crc="224613191" seo="true" mt="1461885141000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:filled-css-sans"/>
+    <file name="museutils.js" crc="183364071" ref="index:filled-css-sans"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:filled-css-sans"/>
+  </folder>
+  <folder name="images">
+    <file name="filled-head.gif" crc="4038583849" seo="true" ref="index:filled-css-sans"/>
+    <file name="alpha.gif" crc="397272871" seo="true" ref="filled-css-sans"/>
+    <file name="filled-head.jpg" crc="3796445111" seo="true" ref="filled-css-sans"/>
+    <file name="alpha2.gif" crc="519344402" seo="true" ref="filled-css-sans"/>
+  </folder>
+  <file name="index.html" crc="473220939" seo="true" mt="1461859607809" redirect="true"/>
+  <file name="filled-css-sans.html" crc="4188715458" seo="true" mt="1461885518463" redirect="true"/>
+</manifest>
