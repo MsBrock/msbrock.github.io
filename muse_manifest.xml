@@ -1,11 +1,11 @@
-<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="msbrock.github.io" resolutions="1x" timestamp="1462011202709">
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="msbrock.github.io" resolutions="1x" timestamp="1462011871456">
   <folder name="css">
     <file name="site_global.css" crc="4060860913"/>
     <file name="index.css" crc="4251204375" ref="index"/>
     <file name="filled-css-sans.css" crc="461024444" ref="filled-css-sans"/>
   </folder>
   <folder name="assets">
-    <file name="filled-css-sans.css" crc="4242124518" seo="true" mt="1461885546000"/>
+    <file name="filled-css-sans.css" crc="387673758" seo="true" mt="1461878346000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:filled-css-sans"/>
