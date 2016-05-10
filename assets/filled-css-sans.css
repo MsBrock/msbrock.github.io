@@ -1,7 +1,7 @@
 .version.filled_css_sans /* version checker */
 {
-	color: #0000FB;
-	background-color: #201965;
+	color: #00001B;
+	background-color: #7AACBC;
 }
 
 .html
@@ -25,7 +25,7 @@
 
 #u309
 {
-	z-index: 46;
+	z-index: 24;
 	width: 291px;
 	background-color: transparent;
 	position: relative;
@@ -65,129 +65,76 @@
 	margin-right: -10000px;
 }
 
-#u330-4
+#u322-8
 {
-	z-index: 64;
+	z-index: 28;
 	width: 475px;
-	min-height: 25px;
+	min-height: 10px;
 	background-color: transparent;
+	text-align: right;
 	color: #7F7F7F;
-	line-height: 30px;
-	font-size: 25px;
 	font-weight: bold;
-	margin-top: 29px;
+	margin-top: 33px;
 	position: relative;
 }
 
-#pu278-40
-{
-	width: 0.01px;
-	margin-top: 24px;
-}
-
-#u278-40
+#u278-18
 {
 	z-index: 6;
 	width: 475px;
-	min-height: 760px;
+	min-height: 17px;
 	background-color: transparent;
+	margin-top: 33px;
 	position: relative;
-	margin-right: -10000px;
+}
+
+#u278-3
+{
+	color: #7F7F7F;
+	font-weight: bold;
 }
 
 #u278-5
 {
-	font-size: 25px;
-	line-height: 30px;
 	color: #7F7F7F;
 	font-weight: normal;
 }
 
-#u278-3,#u278-8
+#u278-2,#u278-6,#u278-7,#u278-8
 {
-	font-size: 25px;
-	line-height: 30px;
-	color: #7F7F7F;
-	font-weight: bold;
-}
-
-#u278-2,#u278-6,#u278-9
-{
-	font-size: 25px;
-	line-height: 30px;
 	color: #B4B4B4;
 	font-weight: bold;
 }
 
-#u278-11,#u278-12
+#u278-10,#u278-11
 {
-	font-size: 25px;
 	text-align: left;
-	line-height: 30px;
 	color: #B4B4B4;
 	font-weight: bold;
 }
 
-#u278-34
+#u278-16
 {
-	font-weight: bold;
-}
-
-#u278-18,#u278-19,#u278-21,#u278-23,#u278-24,#u278-29,#u278-30,#u278-32,#u278-33,#u278-35,#u278-36,#u278-37
-{
-	font-size: 25px;
 	text-align: left;
-	line-height: 30px;
 	color: #8C8C8C;
 }
 
-#u278-38
+#u327-7
 {
-	font-size: 30px;
-	text-align: left;
-	line-height: 36px;
-	color: #8C8C8C;
-}
-
-#u322-8
-{
-	z-index: 50;
-	width: 475px;
-	min-height: 10px;
-	background-color: transparent;
-	color: #7F7F7F;
-	text-align: left;
-	font-size: 25px;
-	line-height: 30px;
-	font-weight: bold;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 816px;
-}
-
-#u322,#u322-2,#u322-4,#u322-5
-{
-	font-weight: normal;
-}
-
-#u327-6
-{
-	z-index: 58;
+	z-index: 36;
 	width: 475px;
 	min-height: 17px;
 	background-color: transparent;
+	text-align: right;
 	color: #BDBDBD;
-	text-align: left;
-	font-size: 25px;
-	line-height: 30px;
-	font-weight: normal;
-	margin-top: 36px;
+	font-weight: bold;
+	margin-top: 717px;
 	position: relative;
 }
 
 #u314
 {
-	z-index: 48;
+	z-index: 26;
 	width: 291px;
 	background-color: transparent;
 	position: relative;
